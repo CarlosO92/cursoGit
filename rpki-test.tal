@@ -1,4 +1,0 @@
-ca.name = LACNIC RPKI-TEST Root
-certificate.location = rsync://rpki-test-2.lacnic.net.uy/rpki/lacnic//rta-lacnic-rpki.cer
-public.key.info = MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4m0Bh4oeVky5pwmtTJmh7/tmajcElgaw ZYO1NCz2KJ80w/CcxiduSSwWI6cU9w/7i6VNbAzJW65t+KSK1wnUs69svg/RjqVIJ5PvMfWfSBM5 UhbG7iiCWg6FUHqjc56SubJbEF7fkovnBmd5ZyESbqwY9ilv0cssfBLzQoPwlPP7+j0J8Tb/Gqq3 5eQ7vGGMiArlTITBzEIqhwifsJEna9a5aGgO4jxhXFOz/Tmf9/mJkE3emzIJFreS3uu5KJi1163J TFr2gXYc68gsZ9e0I21t5RMN8AUteL2NMmIxtLnjQOwbVPirdxqZ6YDAgLlyaHHrP73wQh1dlKvr Uv8fMwIDAQAB
-prefetch.uris = rsync://rpki-test-2.lacnic.net.uy/rpki
